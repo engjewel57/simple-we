@@ -1,5 +1,5 @@
 <?php
-require_once 'vendor/autoload.php';
+require_once "vendor/autoload.php";
 use APP\classes\Hello;
-$hello=new hello;
+$hello=new Hello();
 $hello->index();

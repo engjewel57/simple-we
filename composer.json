@@ -1,16 +1,16 @@
 {
-  "name": "cst-10/cst-10",
+  "name": "pro-12/pro-12",
   "type": "project",
   "description": "A simple php project",
-  "keywords": [],
-  "license": [],
-  "require": {
-  },
-  "require-dev": {
-  },
+  "keywords":[],
+  "license":[],
+  "require": {},
+  "require-dev": {},
   "autoload": {
     "psr-4": {
       "APP\\": "app//"
     }
   }
+
+
 }
